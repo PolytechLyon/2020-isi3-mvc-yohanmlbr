@@ -23,7 +23,13 @@ nav button {
   margin: 0.2rem;
 }
 
-button {
-  font-size: 2rem;
+button,
+label {
+  font-size: 1.5rem;
   font-weight: bold;
+}
+
+input {
+  font-weight: bold;
+  text-align: center;
 }
